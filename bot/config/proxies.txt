@@ -1,4 +1,4 @@
-socks5://zctuddva:xy1j8z7ucwrs@173.211.0.148:6641
 socks5://zctuddva:xy1j8z7ucwrs@198.23.239.134:6540
 socks5://zctuddva:xy1j8z7ucwrs@207.244.217.165:6712
 socks5://zctuddva:xy1j8z7ucwrs@107.172.163.27:6543
+socks5://zctuddva:xy1j8z7ucwrs@173.211.0.148:6641
