@@ -26,5 +26,9 @@
     {
         "session_name": "8848",
         "user_agent": "Mozilla/5.0 (Linux; Android 15.0; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.122 Mobile Safari/537.36"
+    },
+    {
+        "session_name": "7907",
+        "user_agent": "Mozilla/5.0 (Linux; Android 8.1; SM-N981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.113 Mobile Safari/537.36"
     }
 ]
